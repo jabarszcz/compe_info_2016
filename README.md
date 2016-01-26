@@ -1,3 +1,4 @@
+
 # Compétition informatique 2016
 
 ## Description
@@ -20,3 +21,12 @@ solutions sont légèrement commentées afin de clarifier la démarche.
 Des scripts pour générer les cas de test servant à vérifier les
 soumissions des participants sont aussi présents dans chaque
 répertoire d'épreuve.
+
+## Comment utiliser ce répertoire
+
+* Lisez les énoncés des problèmes dans `<problème>/problem/problem.org`
+
+* Accédez aux solutions dans `<problème>/solution`
+
+* Obtenez les test cases en allant dans `<problème>/problem/test_cases`
+  et en faisant `make`
