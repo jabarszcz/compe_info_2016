@@ -30,3 +30,10 @@ répertoire d'épreuve.
 
 * Obtenez les test cases en allant dans `<problème>/problem/test_cases`
   et en faisant `make`
+
+#### Note
+
+Il est à noter que les makefiles sont très peu propres et qu'ils ont
+été faits avec l'approche "tant que ça marche". Le code de génération
+de cas de test est souvent lent, comme il n'était pas une priorité
+qu'il s'exécute rapidement.
