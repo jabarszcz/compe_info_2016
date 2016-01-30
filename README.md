@@ -8,6 +8,9 @@ Ce repo contient certaines des questions et des réponses de l'édition
 participants avaient aussi à travailler sur d'autres questions écrites
 par d'autres étudiants et sur le volet des questions d'entreprises.
 
+La compétition est disponible sur
+[hackerrank](https://www.hackerrank.com/competition-informatique-ceginfo-cegl-2016).
+
 ## Format des épreuves
 
 Les paticipants devaient rédiger des programmes qui lisent certaines
