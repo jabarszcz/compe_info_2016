@@ -17,9 +17,9 @@ Les paticipants devaient rédiger des programmes qui lisent certaines
 entrées et dont les sorties sont vérifiées avec celles de la bonne
 solution pour résoudre les problèmes.
 
-Les énoncés des problèmes sont rédigés en markdown dans des fichiers
-Org de Emacs et suivent le format d'épreuve de Hackerrank. Les
-solutions sont légèrement commentées afin de clarifier la démarche.
+Les énoncés des problèmes sont rédigés en markdown et suivent le
+format d'épreuve de Hackerrank. Les solutions sont légèrement
+commentées afin de clarifier la démarche.
 
 Des scripts pour générer les cas de test servant à vérifier les
 soumissions des participants sont aussi présents dans chaque
@@ -27,11 +27,11 @@ répertoire d'épreuve.
 
 ## Comment utiliser ce répertoire
 
-* Lisez les énoncés des problèmes dans `<problème>/problem/problem.org`
+* Lisez les énoncés des problèmes dans `<problème>/problem/problem.md`
 
-* Accédez aux solutions dans `<problème>/solution`
+* Accédez aux solutions dans `<problème>/solution/`
 
-* Obtenez les test cases en allant dans `<problème>/problem/test_cases`
+* Obtenez les test cases en allant dans `<problème>/problem/test_cases/`
   et en faisant `make`
 
 #### Note
